@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+And following https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
+
 ## Available Scripts
 
 In the project directory, you can run:
